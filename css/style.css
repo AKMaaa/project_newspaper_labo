@@ -1,0 +1,23 @@
+p {
+    font-family: 'Hina Mincho', serif;
+    line-height: 1.7;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+
+.news {
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+    height: 200px;
+    border-bottom: 0.8px solid rgb(73, 73, 73);
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+    padding: 5px;
+    margin: 10px 0 0 auto;
+}
+
+#all_content{
+    padding: 30px;
+    border: 1px solid rgb(73,73,73);
+}
